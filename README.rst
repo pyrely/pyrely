@@ -60,11 +60,11 @@ GIT
 
 You can check the latest sources with the command::
 
-    git clone git://github.com/pyrel/pyrel.git
+    git clone git://github.com/pyrely/pyrely.git
 
 or if you have write privileges::
 
-    git clone git@github.com:pyrel/pyrel.git
+    git clone git@github.com:pyrely/pyrely.git
 
 
 Bugs
