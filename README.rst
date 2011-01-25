@@ -41,12 +41,11 @@ python modules. The install command is::
   python setup.py install
 
 
-Mailing list (TODO)
-===================
+Mailing list
+============
 
-There's a general and development mailing list, visit
-https://lists.sourceforge.net/lists/listinfo/pyrely-general to
-subscribe to the mailing list.
+There's a general mailing list, visit
+https://lists.sourceforge.net/lists/listinfo/pyrely-general to subscribe.
 
 
 Development
